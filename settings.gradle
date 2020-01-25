@@ -1,0 +1,2 @@
+include ':app', ':math_simpli'
+rootProject.name='Maths'
